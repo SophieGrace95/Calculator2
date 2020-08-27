@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+/*HEADER & NAVBAR*/
+
+header{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+}
+
+
+/*BODY*/
+
+html,body {
+    background-color: pink;
+}
+
+#p1{
+    font-family: 'Alata', sans-serif;
+    padding: 40px 0 20px 0;
+    font-size: 70px;
+    text-align: center;
+    color: black;
+}
+
+/*BUTTON*/
+
+button {
+    background-color: rgb(65, 186, 190);
+    padding: 10px 5px;
+    text-align: center;
+    font-size: 24px;
+    font-style: oblique;
+    color: #e0e0e0;
+    margin: 10px 0 0 0;
+    cursor: pointer;
+    box-shadow: 4px 4px 2.5px oldlace;
+    width: 2.5cm;
+    justify-content: center;
+}
+
+
+
+.mobileno{
+    column-count: 3;
+}
